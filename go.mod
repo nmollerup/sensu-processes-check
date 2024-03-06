@@ -1,6 +1,6 @@
 module github.com/sensu/sensu-processes-check
 
-go 1.14
+go 1.20
 
 require (
 	github.com/Knetic/govaluate v3.0.0+incompatible
